@@ -9,12 +9,19 @@ the initial results of the model (e.g., accuracy). You should **explain how you 
 your model**. After that, attempt to improve the results where you will be experimenting and 
 documenting the things you applied (including those that made the results get worse). 
 The written report should include the following (note that the number of words is just a guideline): 
+
 ==• Introduction (100-300 words).== 
+
 ==• Literature review (300-1000 words). Citations are required here.==
+
 ==• Methodology and dataset (300-500 words).==
+
 ==• Results (300-500 words).==
+
 ==• Conclusion, limitations, and future work (100-300 words).==
+
 ==• References (APA format).== 
+
 ==• Codes and appendices (insert the main codes as an appendix)==
 
 You can put your ==**dataset, codes, report (pdf)**==, and recorded video into one folder and compress it 
