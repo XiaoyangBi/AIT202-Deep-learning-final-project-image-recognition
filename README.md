@@ -1,33 +1,12 @@
 # BXY-s-Repository1
-You are required to **create a custom dataset with pictures taken by you** to use to train and test
-your **designed deep learning classification model**. A small-sized dataset with two-to-three classes 
-shall be acceptable, but it must be described in detail. 
-Then, you are to review the literature on the related architectures/methods that **you may use as a 
-reference to design your model**. You will need to justify your selection of architecture. However, 
-once your model is designed, you will need to train and test it using the dataset you created. Report 
-the initial results of the model (e.g., accuracy). You should **explain how you are going to evaluate 
-your model**. After that, attempt to improve the results where you will be experimenting and 
-documenting the things you applied (including those that made the results get worse). 
-The written report should include the following (note that the number of words is just a guideline): 
+Datasets: https://xmueducn-my.sharepoint.com/:f:/g/personal/ait2009357_xmu_edu_my/Euuos8BnXNZMngrXT0PkAEgBVf3AjmTZ1VokYm35tVvCFA?e=XS4NDX
+Presentation: https://xmueducn-my.sharepoint.com/:v:/g/personal/ait2009357_xmu_edu_my/EdVy0S4_t1hOkC9IafUk8V8Bg2pU5nDF_Q6UXDhMKFVuEg?e=tGVvMs
+PPT slide: https://xmueducn-my.sharepoint.com/:p:/g/personal/ait2009357_xmu_edu_my/EW11Urz-bDBBuzxSo6_0VsIBUZ0z9SPDX6-XSvGX2grSPw?e=q0pHaF
 
-==• Introduction (100-300 words).== 
+Over the past decade, CNN has started a revolution in the field of image recognition since AlexNet[2] showed its unparalleled performance and potential in 2012. With the rapid development of relating research, CNN-based image recognition networks began to become the mainstream framework in computer vision. With the knowledge of deep learning, we designed and built our model concerning the most advanced neural network researches in recent years. With empirical analysis and accuracy evaluation of previous researches, we chose ResNet as the blueprint of our model, for its innovative creation of shortcut connection. After modification of the depth of the network and normalization, our model finally obtained better performance than the original Resnet when applied to our dataset. In our project, we created our food-relating dataset named FC05, short for Food Category 05, which has 5 categories of common daily foods: rice, drinks, leafy green vegetables, meat, and noodles, with 230 images in each. Though the full potential of our model cannot be realized during the training due to the small size of our dataset, FC05 still proves the usability of our model and may become a complete dataset for food classification based on Chinese diet habits in the future. 
 
-==• Literature review (300-1000 words). Citations are required here.==
 
-==• Methodology and dataset (300-500 words).==
 
-==• Results (300-500 words).==
 
-==• Conclusion, limitations, and future work (100-300 words).==
 
-==• References (APA format).== 
-
-==• Codes and appendices (insert the main codes as an appendix)==
-
-You can put your ==**dataset, codes, report (pdf)**==, and recorded video into one folder and compress it 
-using software such as Winrar, and **name the file under your student IDs (e.g., “AIT2xxx,
-AIT2xxx, AIT2xxx”)**. Submit the **compressed file** in Moodle system by **11:59 pm, 28 June 2022**. 
-Only one copy should be submitted (by the group leader). **If the file is too large, please upload 
-the video, dataset, and code to cloud storage and include the links in the report, which can then be
-submitted in Moodle system**. Make sure the lecturer has permission to download the files from the 
-included links.
+Keywords: CNN, Deep Learning, ResNet, FC05 Dataset, Image Classification
